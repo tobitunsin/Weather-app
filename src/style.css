@@ -1,3 +1,24 @@
+.Weather-App {
+  max-width: 600px;
+  border: 1px solid #dadde1;
+  margin: 30px auto;
+  padding: 30px;
+  border-radius: 5px;
+}
+
 h1 {
-  color: blue;
+  margin-bottom: 0;
+}
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  margin: 0;
+}
+small {
+  display: block;
+  margin: 0 auto;
 }
