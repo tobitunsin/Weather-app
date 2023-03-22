@@ -29,6 +29,7 @@ small {
 }
 .weather-temperature img {
   margin-left: -5px;
+  margin-top: -10px;
 }
 .weather-temperature strong {
     color: black;
