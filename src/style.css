@@ -19,6 +19,10 @@ ul {
 li {
   margin: 0;
 }
+li:first-letter {
+  text-transform: capitalize
+}  
+
 small {
   display: block;
   margin: 0 auto;
